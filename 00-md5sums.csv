@@ -39,6 +39,7 @@ log,md5sum
 ./conda-osx-clang-py39/2021-06-08.gz,6120e14c69c058c11d1699c8ea6e31ed
 ./conda-osx-clang-py39/2021-06-09.gz,8f1ff636a5c41ad4def7cb21a5fb41df
 ./conda-osx-clang-py39/2021-06-10.gz,1e74cee7bc7c61fc919dc903eb905741
+./conda-win-vs2017-py39/2021-06-11.gz,98a2a53af4dc3095de9ddb07941b7970
 ./debian-bullseye-arm64/2021-06-04.gz,b266f1ac48300f599e6052c14cdd67f3
 ./debian-bullseye-arm64/2021-06-05.gz,721a87a79e8263b8ea7c2619fe6bd7c2
 ./debian-bullseye-arm64/2021-06-06.gz,35171cc743b7ef0d3bc132f0100df73c
@@ -48,6 +49,7 @@ log,md5sum
 ./debian-buster-arm64/2021-06-06.gz,484c7ff4cf152aa928ab5ddf856f909d
 ./debian-buster-arm64/2021-06-07.gz,c7e6281d7a727c18f9109cd835adb71f
 ./java-jars/ubuntu/2021-06-06.gz,f8de94afcad6ed890f98ea5ffea18263
+./java-jars/ubuntu/2021-06-11.gz,74faee839fa1f9aac88981c35c6b30ff
 ./python-sdist/2021-06-05.gz,50e5f41997d16520239fa2f8cb085fff
 ./test-build-vcpkg-win/2021-06-01.gz,bdf9257788e568404e1005749b0c1a46
 ./test-conda-python-3.7-kartothek-latest/2021-06-01.gz,46522368547b8dcacc7d3e67a36f4488
@@ -68,6 +70,7 @@ log,md5sum
 ./test-conda-python-3.7-turbodbc-latest/2021-06-08.gz,7298bc7e891548895e708dd6c2c9664d
 ./test-conda-python-3.7-turbodbc-latest/2021-06-09.gz,bde0c6c32d4053a5660a7de294886c01
 ./test-conda-python-3.7-turbodbc-latest/2021-06-10.gz,a8731f0b10151f18325a081ccbac9525
+./test-conda-python-3.7-turbodbc-latest/2021-06-11.gz,0012f9c508c9462ee5614e991b143a95
 ./test-conda-python-3.7-turbodbc-master/2021-06-01.gz,73c670fb1f0bef04efe82bea61b59f92
 ./test-conda-python-3.7-turbodbc-master/2021-06-04.gz,067df15bf85c3ab9df3b1e3d9006f333
 ./test-conda-python-3.7-turbodbc-master/2021-06-05.gz,29bd698847b805275404243f207a2cf5
@@ -76,6 +79,7 @@ log,md5sum
 ./test-conda-python-3.7-turbodbc-master/2021-06-08.gz,ba20430f6afe8475d1b6a04619ee486a
 ./test-conda-python-3.7-turbodbc-master/2021-06-09.gz,ebf6a1b10edb21eabbd366f20a42c6fc
 ./test-conda-python-3.7-turbodbc-master/2021-06-10.gz,72bf0b11d29d32e6d3bd586d9c471c85
+./test-conda-python-3.7-turbodbc-master/2021-06-11.gz,d1e7f72ef6e383ea0b491e1e244e2eea
 ./test-conda-python-3.7/2021-06-10.gz,d21f72567fb041682c1d987334988f35
 ./test-conda-python-3.8-spark-master/2021-06-01.gz,a355b24702cbd9574e2aa79fe73cabdd
 ./test-conda-python-3.8-spark-master/2021-06-04.gz,963d695bc1dfe6ee1627fcd27983fcbf
@@ -85,6 +89,7 @@ log,md5sum
 ./test-conda-python-3.8-spark-master/2021-06-08.gz,292716427990d778a44b2b4232e78107
 ./test-conda-python-3.8-spark-master/2021-06-09.gz,34b7fdbfb8fe3bc4dedf27a29bc9d905
 ./test-conda-python-3.8-spark-master/2021-06-10.gz,7f3a09a648637c8170621ee1a850b49d
+./test-conda-python-3.8-spark-master/2021-06-11.gz,effd285b2f33a92c536e24506480d04a
 ./test-r-devdocs/macOS-latest/2021-06-01.gz,e28543f971719b442b2b62c3db6b6f1c
 ./test-r-devdocs/macOS-latest/2021-06-09.gz,c2743b15a3796cef20ec3b2e850c28af
 ./test-r-linux-as-cran/2021-06-09.gz,1918964869569d879c230f70079ec06c
@@ -96,10 +101,13 @@ log,md5sum
 ./test-r-linux-valgrind/2021-06-08.gz,110cd5b04a5928d51a99b2ca2efd30a1
 ./test-r-linux-valgrind/2021-06-09.gz,a4c6ce436f4301296a52dd603ac083b0
 ./test-r-linux-valgrind/2021-06-10.gz,5bd11307bd28fe576aebafa214049624
+./test-r-rstudio-r-base-3.6-centos7-devtoolset-8/2021-06-11.gz,ffcb410d1bc3aa2d6055946b19d495b1
+./test-r-rstudio-r-base-3.6-centos8/2021-06-11.gz,3320e806a23aa5ea6401baf391a58209
 ./test-r-without-arrow/2021-06-01.gz,fe057bf03c932f1e8fdd5a473e88f69f
 ./test-r-without-arrow/2021-06-04.gz,a8fd96d2f49f859c6f51b4aac27a4d51
 ./test-r-without-arrow/2021-06-05.gz,5dce3021998247e52e5fa7b153b2d4be
 ./test-r-without-arrow/2021-06-06.gz,1793993e7a2db4fab4002828b0f4fb10
+./test-r-without-arrow/2021-06-11.gz,0a3bfccd938366af2d21e0b6afa0c60a
 ./test-ubuntu-18.04-cpp-release/2021-05-06.gz,2b803653f9d602b6464441f5ab655497
 ./test-ubuntu-18.04-cpp-release/2021-06-01.gz,38243f80ce33faf58ea57bd27292d08d
 ./test-ubuntu-18.04-cpp-release/2021-06-04.gz,dabd86034f9935a53520f5399e2d0edd
@@ -124,6 +132,7 @@ log,md5sum
 ./test-ubuntu-18.04-r-sanitizer/2021-06-08.gz,947e6118c956fa04dbdb18e16b136196
 ./test-ubuntu-18.04-r-sanitizer/2021-06-09.gz,1c4c4f033e898bde0412dcded7f2e142
 ./test-ubuntu-18.04-r-sanitizer/2021-06-10.gz,5a5f09708bb2a16e7ba05cd5f39b3e77
+./test-ubuntu-18.04-r-sanitizer/2021-06-11.gz,5dbf8901a9f18dca733dc106fec87a0d
 ./test-ubuntu-20.04-cpp-thread-sanitizer/2021-06-05.gz,07ed60533e486ab4465979d7c796d2fc
 ./test-ubuntu-20.10-docs/2021-06-01.gz,db13c9346f8347cad3f1d2b5f998924e
 ./test-ubuntu-20.10-docs/2021-06-05.gz,0d09076ea60ec8be87c1a196602ffe1c
