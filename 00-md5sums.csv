@@ -52,6 +52,7 @@ log,md5sum
 ./java-jars/ubuntu/2021-06-06.gz,f8de94afcad6ed890f98ea5ffea18263
 ./java-jars/ubuntu/2021-06-11.gz,74faee839fa1f9aac88981c35c6b30ff
 ./java-jars/ubuntu/2021-06-12.gz,4a216852fac887ebeaf859dcf1118e95
+./java-jars/ubuntu/2021-06-14.gz,3c9b8417f857ea8c1e804041a23b73e5
 ./python-sdist/2021-06-05.gz,50e5f41997d16520239fa2f8cb085fff
 ./test-build-vcpkg-win/2021-06-01.gz,bdf9257788e568404e1005749b0c1a46
 ./test-conda-python-3.7-kartothek-latest/2021-06-01.gz,46522368547b8dcacc7d3e67a36f4488
@@ -60,12 +61,14 @@ log,md5sum
 ./test-conda-python-3.7-kartothek-latest/2021-06-06.gz,a6093030bda97943d771170a9ddad623
 ./test-conda-python-3.7-kartothek-latest/2021-06-07.gz,a9a400765c70f5147b5269701603d137
 ./test-conda-python-3.7-kartothek-latest/2021-06-12.gz,5642ee8ab9bac2caf62f3735d3a1c162
+./test-conda-python-3.7-kartothek-latest/2021-06-14.gz,166c68146b40306af7d047b3f642e578
 ./test-conda-python-3.7-kartothek-master/2021-06-01.gz,6e581c08cdd1e43caf1ff9043d2f5f07
 ./test-conda-python-3.7-kartothek-master/2021-06-04.gz,d3800341f77f5461d6d63869ab99adcd
 ./test-conda-python-3.7-kartothek-master/2021-06-05.gz,02965b1f3014c118fe6de1c3da67dcd0
 ./test-conda-python-3.7-kartothek-master/2021-06-06.gz,b40d88dd037828bc5fd065897c744d87
 ./test-conda-python-3.7-kartothek-master/2021-06-07.gz,1df2b878725a5d1a7768974b68395908
 ./test-conda-python-3.7-kartothek-master/2021-06-12.gz,5e2cf63ca439aa5f487993eef18daee1
+./test-conda-python-3.7-kartothek-master/2021-06-14.gz,7855edc385f6c5f20a861030174c17ea
 ./test-conda-python-3.7-turbodbc-latest/2021-06-01.gz,b1f185fbfa6b0192db37d96f2bcab1a8
 ./test-conda-python-3.7-turbodbc-latest/2021-06-04.gz,23657c7444564cc5cf87325f22cb3d0c
 ./test-conda-python-3.7-turbodbc-latest/2021-06-05.gz,d2a83e79766b9b5f17bd28f05a3576a5
@@ -98,6 +101,7 @@ log,md5sum
 ./test-conda-python-3.8-spark-master/2021-06-11.gz,effd285b2f33a92c536e24506480d04a
 ./test-conda-python-3.8-spark-master/2021-06-12.gz,8c675fd3a57013475d0994a5e899286a
 ./test-conda-python-3.8-spark-master/2021-06-13.gz,884df0b40eb19d60462ddca9a6706108
+./test-conda-python-3.8-spark-master/2021-06-14.gz,222025008d342045f845d31ad0f34db8
 ./test-r-devdocs/macOS-latest/2021-06-01.gz,e28543f971719b442b2b62c3db6b6f1c
 ./test-r-devdocs/macOS-latest/2021-06-09.gz,c2743b15a3796cef20ec3b2e850c28af
 ./test-r-linux-as-cran/2021-06-09.gz,1918964869569d879c230f70079ec06c
@@ -143,6 +147,7 @@ log,md5sum
 ./test-ubuntu-18.04-r-sanitizer/2021-06-11.gz,5dbf8901a9f18dca733dc106fec87a0d
 ./test-ubuntu-18.04-r-sanitizer/2021-06-12.gz,429ed7f4568255982554a01757c9a47a
 ./test-ubuntu-18.04-r-sanitizer/2021-06-13.gz,facd22e60ceeb29c8af2d12ac5acf493
+./test-ubuntu-18.04-r-sanitizer/2021-06-14.gz,7e52950fcaec4240f6fe04fa3e1a1de9
 ./test-ubuntu-20.04-cpp-thread-sanitizer/2021-06-05.gz,07ed60533e486ab4465979d7c796d2fc
 ./test-ubuntu-20.10-docs/2021-06-01.gz,db13c9346f8347cad3f1d2b5f998924e
 ./test-ubuntu-20.10-docs/2021-06-05.gz,0d09076ea60ec8be87c1a196602ffe1c
@@ -164,6 +169,7 @@ log,md5sum
 ./ubuntu-groovy-arm64/2021-06-05.gz,5f7cedc952c4aa91feb16e2acddb1050
 ./ubuntu-groovy-arm64/2021-06-06.gz,9e2073a4b5d48c27c909f4de378adbfa
 ./ubuntu-groovy-arm64/2021-06-07.gz,fade84618ef5dc0ca612e24775f17dce
+./ubuntu-groovy-arm64/2021-06-14.gz,0f3a43a5abd8c3a87e97cce7095e3d08
 ./ubuntu-hirsute-arm64/2021-06-04.gz,484e5825373a6aa713114f66895fd4e1
 ./ubuntu-hirsute-arm64/2021-06-05.gz,7ac9f10513f34acbc862205062768aa1
 ./ubuntu-hirsute-arm64/2021-06-06.gz,622c103cc233408a652404f8b2a6412e
