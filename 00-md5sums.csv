@@ -50,6 +50,7 @@ log,md5sum
 ./debian-buster-arm64/2021-06-07.gz,c7e6281d7a727c18f9109cd835adb71f
 ./java-jars/ubuntu/2021-06-06.gz,f8de94afcad6ed890f98ea5ffea18263
 ./java-jars/ubuntu/2021-06-11.gz,74faee839fa1f9aac88981c35c6b30ff
+./java-jars/ubuntu/2021-06-12.gz,4a216852fac887ebeaf859dcf1118e95
 ./python-sdist/2021-06-05.gz,50e5f41997d16520239fa2f8cb085fff
 ./test-build-vcpkg-win/2021-06-01.gz,bdf9257788e568404e1005749b0c1a46
 ./test-conda-python-3.7-kartothek-latest/2021-06-01.gz,46522368547b8dcacc7d3e67a36f4488
@@ -57,11 +58,13 @@ log,md5sum
 ./test-conda-python-3.7-kartothek-latest/2021-06-05.gz,69ceb11eef78a15d02f58a2d40083ca9
 ./test-conda-python-3.7-kartothek-latest/2021-06-06.gz,a6093030bda97943d771170a9ddad623
 ./test-conda-python-3.7-kartothek-latest/2021-06-07.gz,a9a400765c70f5147b5269701603d137
+./test-conda-python-3.7-kartothek-latest/2021-06-12.gz,5642ee8ab9bac2caf62f3735d3a1c162
 ./test-conda-python-3.7-kartothek-master/2021-06-01.gz,6e581c08cdd1e43caf1ff9043d2f5f07
 ./test-conda-python-3.7-kartothek-master/2021-06-04.gz,d3800341f77f5461d6d63869ab99adcd
 ./test-conda-python-3.7-kartothek-master/2021-06-05.gz,02965b1f3014c118fe6de1c3da67dcd0
 ./test-conda-python-3.7-kartothek-master/2021-06-06.gz,b40d88dd037828bc5fd065897c744d87
 ./test-conda-python-3.7-kartothek-master/2021-06-07.gz,1df2b878725a5d1a7768974b68395908
+./test-conda-python-3.7-kartothek-master/2021-06-12.gz,5e2cf63ca439aa5f487993eef18daee1
 ./test-conda-python-3.7-turbodbc-latest/2021-06-01.gz,b1f185fbfa6b0192db37d96f2bcab1a8
 ./test-conda-python-3.7-turbodbc-latest/2021-06-04.gz,23657c7444564cc5cf87325f22cb3d0c
 ./test-conda-python-3.7-turbodbc-latest/2021-06-05.gz,d2a83e79766b9b5f17bd28f05a3576a5
@@ -133,6 +136,7 @@ log,md5sum
 ./test-ubuntu-18.04-r-sanitizer/2021-06-09.gz,1c4c4f033e898bde0412dcded7f2e142
 ./test-ubuntu-18.04-r-sanitizer/2021-06-10.gz,5a5f09708bb2a16e7ba05cd5f39b3e77
 ./test-ubuntu-18.04-r-sanitizer/2021-06-11.gz,5dbf8901a9f18dca733dc106fec87a0d
+./test-ubuntu-18.04-r-sanitizer/2021-06-12.gz,429ed7f4568255982554a01757c9a47a
 ./test-ubuntu-20.04-cpp-thread-sanitizer/2021-06-05.gz,07ed60533e486ab4465979d7c796d2fc
 ./test-ubuntu-20.10-docs/2021-06-01.gz,db13c9346f8347cad3f1d2b5f998924e
 ./test-ubuntu-20.10-docs/2021-06-05.gz,0d09076ea60ec8be87c1a196602ffe1c
