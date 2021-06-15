@@ -93,6 +93,7 @@ log,md5sum
 ./test-conda-python-3.8-spark-master/2021-06-09.gz,34b7fdbfb8fe3bc4dedf27a29bc9d905
 ./test-conda-python-3.8-spark-master/2021-06-10.gz,7f3a09a648637c8170621ee1a850b49d
 ./test-conda-python-3.8-spark-master/2021-06-11.gz,effd285b2f33a92c536e24506480d04a
+./test-conda-python-3.8-spark-master/2021-06-12.gz,8c675fd3a57013475d0994a5e899286a
 ./test-r-devdocs/macOS-latest/2021-06-01.gz,e28543f971719b442b2b62c3db6b6f1c
 ./test-r-devdocs/macOS-latest/2021-06-09.gz,c2743b15a3796cef20ec3b2e850c28af
 ./test-r-linux-as-cran/2021-06-09.gz,1918964869569d879c230f70079ec06c
