@@ -40,6 +40,7 @@ log,md5sum
 ./conda-osx-clang-py39/2021-06-09.gz,8f1ff636a5c41ad4def7cb21a5fb41df
 ./conda-osx-clang-py39/2021-06-10.gz,1e74cee7bc7c61fc919dc903eb905741
 ./conda-win-vs2017-py39/2021-06-11.gz,98a2a53af4dc3095de9ddb07941b7970
+./conda-win-vs2017-py39/2021-06-13.gz,a8a9ecf4ebf423f6b8020e0b592a92c2
 ./debian-bullseye-arm64/2021-06-04.gz,b266f1ac48300f599e6052c14cdd67f3
 ./debian-bullseye-arm64/2021-06-05.gz,721a87a79e8263b8ea7c2619fe6bd7c2
 ./debian-bullseye-arm64/2021-06-06.gz,35171cc743b7ef0d3bc132f0100df73c
@@ -74,6 +75,7 @@ log,md5sum
 ./test-conda-python-3.7-turbodbc-latest/2021-06-09.gz,bde0c6c32d4053a5660a7de294886c01
 ./test-conda-python-3.7-turbodbc-latest/2021-06-10.gz,a8731f0b10151f18325a081ccbac9525
 ./test-conda-python-3.7-turbodbc-latest/2021-06-11.gz,0012f9c508c9462ee5614e991b143a95
+./test-conda-python-3.7-turbodbc-latest/2021-06-13.gz,195de8f8d979e00a8fc634021f755e7c
 ./test-conda-python-3.7-turbodbc-master/2021-06-01.gz,73c670fb1f0bef04efe82bea61b59f92
 ./test-conda-python-3.7-turbodbc-master/2021-06-04.gz,067df15bf85c3ab9df3b1e3d9006f333
 ./test-conda-python-3.7-turbodbc-master/2021-06-05.gz,29bd698847b805275404243f207a2cf5
@@ -83,6 +85,7 @@ log,md5sum
 ./test-conda-python-3.7-turbodbc-master/2021-06-09.gz,ebf6a1b10edb21eabbd366f20a42c6fc
 ./test-conda-python-3.7-turbodbc-master/2021-06-10.gz,72bf0b11d29d32e6d3bd586d9c471c85
 ./test-conda-python-3.7-turbodbc-master/2021-06-11.gz,d1e7f72ef6e383ea0b491e1e244e2eea
+./test-conda-python-3.7-turbodbc-master/2021-06-13.gz,8cbae6d5e1d66d4204036f6b92d074ae
 ./test-conda-python-3.7/2021-06-10.gz,d21f72567fb041682c1d987334988f35
 ./test-conda-python-3.8-spark-master/2021-06-01.gz,a355b24702cbd9574e2aa79fe73cabdd
 ./test-conda-python-3.8-spark-master/2021-06-04.gz,963d695bc1dfe6ee1627fcd27983fcbf
@@ -94,6 +97,7 @@ log,md5sum
 ./test-conda-python-3.8-spark-master/2021-06-10.gz,7f3a09a648637c8170621ee1a850b49d
 ./test-conda-python-3.8-spark-master/2021-06-11.gz,effd285b2f33a92c536e24506480d04a
 ./test-conda-python-3.8-spark-master/2021-06-12.gz,8c675fd3a57013475d0994a5e899286a
+./test-conda-python-3.8-spark-master/2021-06-13.gz,884df0b40eb19d60462ddca9a6706108
 ./test-r-devdocs/macOS-latest/2021-06-01.gz,e28543f971719b442b2b62c3db6b6f1c
 ./test-r-devdocs/macOS-latest/2021-06-09.gz,c2743b15a3796cef20ec3b2e850c28af
 ./test-r-linux-as-cran/2021-06-09.gz,1918964869569d879c230f70079ec06c
@@ -138,6 +142,7 @@ log,md5sum
 ./test-ubuntu-18.04-r-sanitizer/2021-06-10.gz,5a5f09708bb2a16e7ba05cd5f39b3e77
 ./test-ubuntu-18.04-r-sanitizer/2021-06-11.gz,5dbf8901a9f18dca733dc106fec87a0d
 ./test-ubuntu-18.04-r-sanitizer/2021-06-12.gz,429ed7f4568255982554a01757c9a47a
+./test-ubuntu-18.04-r-sanitizer/2021-06-13.gz,facd22e60ceeb29c8af2d12ac5acf493
 ./test-ubuntu-20.04-cpp-thread-sanitizer/2021-06-05.gz,07ed60533e486ab4465979d7c796d2fc
 ./test-ubuntu-20.10-docs/2021-06-01.gz,db13c9346f8347cad3f1d2b5f998924e
 ./test-ubuntu-20.10-docs/2021-06-05.gz,0d09076ea60ec8be87c1a196602ffe1c
