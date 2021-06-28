@@ -7,4 +7,4 @@ The goal of arrow-nightly-builds-errors is to keep tracking of logs which are de
 
 ## Notes
 
-* 2021-06-02 and 2021-06-03 have no logs, those day the builds were deactivated due to CI changes
+* 2021-06-02, 2021-06-03, 2021-06-19 have no logs, those day the builds were deactivated due to CI changes
