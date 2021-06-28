@@ -32,6 +32,7 @@ log,md5sum
 ./conda-osx-clang-py38/2021-06-08.gz,87c32b659fe4f0cea83fef498a44e087
 ./conda-osx-clang-py38/2021-06-09.gz,b5d7fa2cf91a7d8f30dd2752793970d5
 ./conda-osx-clang-py38/2021-06-10.gz,e3398a2877af5d65e0fc3243cd1f8395
+./conda-osx-clang-py38/2021-06-18.gz,a2d1c912b53f2ba1e2b4c02b99acb85b
 ./conda-osx-clang-py39/2021-06-04.gz,92c5d7003a365226dc54c9b205389a75
 ./conda-osx-clang-py39/2021-06-05.gz,9e9ae44d981091396bdc30b23ee9f1e6
 ./conda-osx-clang-py39/2021-06-06.gz,e9c60276875f492c3fe2740d94c7796d
@@ -59,6 +60,8 @@ log,md5sum
 ./python-sdist/2021-06-16.gz,381c64172aac3fc1af41223252a43db8
 ./test-build-vcpkg-win/2021-06-01.gz,bdf9257788e568404e1005749b0c1a46
 ./test-conda-cpp-valgrind/2021-06-16.gz,92b228ddfd16172f73643896131a2efa
+./test-conda-cpp-valgrind/2021-06-18.gz,2089360f9b16bc0cb1f52507b1cd6cd5
+./test-conda-python-3.7-dask-latest/2021-06-18.gz,b453e632440172f0465f5c240fa125e3
 ./test-conda-python-3.7-kartothek-latest/2021-06-01.gz,46522368547b8dcacc7d3e67a36f4488
 ./test-conda-python-3.7-kartothek-latest/2021-06-04.gz,96df78e56574baea2247cd7bb165bf64
 ./test-conda-python-3.7-kartothek-latest/2021-06-05.gz,69ceb11eef78a15d02f58a2d40083ca9
@@ -84,6 +87,7 @@ log,md5sum
 ./test-conda-python-3.7-turbodbc-latest/2021-06-15.gz,3d9ff515c1dbbd900491180241874e87
 ./test-conda-python-3.7-turbodbc-latest/2021-06-16.gz,94096643a9b9697c1f7a8a1a78b5d785
 ./test-conda-python-3.7-turbodbc-latest/2021-06-17.gz,43b6099d7f01ed4976c50806bd70ebfc
+./test-conda-python-3.7-turbodbc-latest/2021-06-18.gz,be54a39d57d3c64a72e75233c9dc40a4
 ./test-conda-python-3.7-turbodbc-master/2021-06-01.gz,73c670fb1f0bef04efe82bea61b59f92
 ./test-conda-python-3.7-turbodbc-master/2021-06-04.gz,067df15bf85c3ab9df3b1e3d9006f333
 ./test-conda-python-3.7-turbodbc-master/2021-06-05.gz,29bd698847b805275404243f207a2cf5
@@ -99,6 +103,7 @@ log,md5sum
 ./test-conda-python-3.7-turbodbc-master/2021-06-15.gz,68978ef16b5720da7ac6ab8325e973d7
 ./test-conda-python-3.7-turbodbc-master/2021-06-16.gz,1a0d7a11093c5104e3f9267f1c21fbd8
 ./test-conda-python-3.7-turbodbc-master/2021-06-17.gz,af033730bb1771165ce07a2b28f8b415
+./test-conda-python-3.7-turbodbc-master/2021-06-18.gz,e620ed52a549ea846aa2cd4940b22d03
 ./test-conda-python-3.7/2021-06-10.gz,d21f72567fb041682c1d987334988f35
 ./test-conda-python-3.8-spark-master/2021-06-01.gz,a355b24702cbd9574e2aa79fe73cabdd
 ./test-conda-python-3.8-spark-master/2021-06-04.gz,963d695bc1dfe6ee1627fcd27983fcbf
@@ -114,6 +119,7 @@ log,md5sum
 ./test-conda-python-3.8-spark-master/2021-06-14.gz,222025008d342045f845d31ad0f34db8
 ./test-conda-python-3.8-spark-master/2021-06-15.gz,3707ac938534a7b08fc9d4ca6588c291
 ./test-conda-python-3.8-spark-master/2021-06-16.gz,304f060fcd5209f732ea8861ac9e711c
+./test-conda-python-3.8-spark-master/2021-06-18.gz,955bc5dca3a6d59dcef2d6023c789f28
 ./test-r-devdocs/macOS-latest/2021-06-01.gz,e28543f971719b442b2b62c3db6b6f1c
 ./test-r-devdocs/macOS-latest/2021-06-09.gz,c2743b15a3796cef20ec3b2e850c28af
 ./test-r-linux-as-cran/2021-06-09.gz,1918964869569d879c230f70079ec06c
@@ -125,6 +131,8 @@ log,md5sum
 ./test-r-linux-valgrind/2021-06-08.gz,110cd5b04a5928d51a99b2ca2efd30a1
 ./test-r-linux-valgrind/2021-06-09.gz,a4c6ce436f4301296a52dd603ac083b0
 ./test-r-linux-valgrind/2021-06-10.gz,5bd11307bd28fe576aebafa214049624
+./test-r-linux-valgrind/2021-06-18.gz,dc2631333f6568ada957246d4ce171bb
+./test-r-minimal-build/2021-06-18.gz,216bd34c9f1768621449dc52b5755878
 ./test-r-rstudio-r-base-3.6-centos7-devtoolset-8/2021-06-11.gz,ffcb410d1bc3aa2d6055946b19d495b1
 ./test-r-rstudio-r-base-3.6-centos8/2021-06-11.gz,3320e806a23aa5ea6401baf391a58209
 ./test-r-without-arrow/2021-06-01.gz,fe057bf03c932f1e8fdd5a473e88f69f
